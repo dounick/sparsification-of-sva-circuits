@@ -1,0 +1,6 @@
+torch
+transformers==4.49.0
+numpy
+matplotlib
+huggingface-hub
+pyvene==0.1.8

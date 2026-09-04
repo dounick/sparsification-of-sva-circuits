@@ -1,0 +1,400 @@
+{"base": "<|endoftext|>The senator near the consultant", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The senators near the consultant", "source_label": " have"}
+{"base": "<|endoftext|>The doctor in front of the athlete", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The doctors in front of the athlete", "source_label": " are"}
+{"base": "<|endoftext|>The senators near the consultant", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The senator near the consultant", "source_label": " has"}
+{"base": "<|endoftext|>The doctors in front of the athlete", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The doctor in front of the athlete", "source_label": " is"}
+{"base": "<|endoftext|>The senator next to the doctors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators next to the doctors", "source_label": " are"}
+{"base": "<|endoftext|>The customer to the side of the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The customers to the side of the teacher", "source_label": " are"}
+{"base": "<|endoftext|>The senators next to the doctors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator next to the doctors", "source_label": " is"}
+{"base": "<|endoftext|>The customers to the side of the teacher", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The customer to the side of the teacher", "source_label": " is"}
+{"base": "<|endoftext|>The farmers next to the manager", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The farmer next to the manager", "source_label": " was"}
+{"base": "<|endoftext|>The actors across from the senator", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor across from the senator", "source_label": " was"}
+{"base": "<|endoftext|>The farmer next to the manager", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The farmers next to the manager", "source_label": " were"}
+{"base": "<|endoftext|>The actor across from the senator", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors across from the senator", "source_label": " were"}
+{"base": "<|endoftext|>The farmers in front of the actor", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The farmer in front of the actor", "source_label": " was"}
+{"base": "<|endoftext|>The consultant next to the senators", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants next to the senators", "source_label": " are"}
+{"base": "<|endoftext|>The farmer in front of the actor", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The farmers in front of the actor", "source_label": " were"}
+{"base": "<|endoftext|>The consultants next to the senators", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The consultant next to the senators", "source_label": " is"}
+{"base": "<|endoftext|>The consultants behind the officer", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The consultant behind the officer", "source_label": " has"}
+{"base": "<|endoftext|>The executive to the side of the actor", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The executives to the side of the actor", "source_label": " have"}
+{"base": "<|endoftext|>The consultant behind the officer", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The consultants behind the officer", "source_label": " have"}
+{"base": "<|endoftext|>The executives to the side of the actor", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The executive to the side of the actor", "source_label": " has"}
+{"base": "<|endoftext|>The executive to the side of the officer", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The executives to the side of the officer", "source_label": " are"}
+{"base": "<|endoftext|>The architects next to the ministers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect next to the ministers", "source_label": " is"}
+{"base": "<|endoftext|>The executives to the side of the officer", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The executive to the side of the officer", "source_label": " is"}
+{"base": "<|endoftext|>The architect next to the ministers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects next to the ministers", "source_label": " are"}
+{"base": "<|endoftext|>The minister across from the teachers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The ministers across from the teachers", "source_label": " were"}
+{"base": "<|endoftext|>The farmer in front of the senator", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The farmers in front of the senator", "source_label": " are"}
+{"base": "<|endoftext|>The ministers across from the teachers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The minister across from the teachers", "source_label": " was"}
+{"base": "<|endoftext|>The farmers in front of the senator", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The farmer in front of the senator", "source_label": " is"}
+{"base": "<|endoftext|>The farmer next to the consultants", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers next to the consultants", "source_label": " have"}
+{"base": "<|endoftext|>The authors behind the doctors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The author behind the doctors", "source_label": " has"}
+{"base": "<|endoftext|>The farmers next to the consultants", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer next to the consultants", "source_label": " has"}
+{"base": "<|endoftext|>The author behind the doctors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The authors behind the doctors", "source_label": " have"}
+{"base": "<|endoftext|>The minister near the ministers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The ministers near the ministers", "source_label": " are"}
+{"base": "<|endoftext|>The authors behind the authors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The author behind the authors", "source_label": " has"}
+{"base": "<|endoftext|>The ministers near the ministers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The minister near the ministers", "source_label": " is"}
+{"base": "<|endoftext|>The author behind the authors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The authors behind the authors", "source_label": " have"}
+{"base": "<|endoftext|>The athlete across from the guard", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The athletes across from the guard", "source_label": " have"}
+{"base": "<|endoftext|>The authors to the side of the authors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The author to the side of the authors", "source_label": " is"}
+{"base": "<|endoftext|>The athletes across from the guard", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The athlete across from the guard", "source_label": " has"}
+{"base": "<|endoftext|>The author to the side of the authors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The authors to the side of the authors", "source_label": " are"}
+{"base": "<|endoftext|>The farmer across from the consultant", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The farmers across from the consultant", "source_label": " are"}
+{"base": "<|endoftext|>The consultants across from the pilots", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The consultant across from the pilots", "source_label": " is"}
+{"base": "<|endoftext|>The farmers across from the consultant", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The farmer across from the consultant", "source_label": " is"}
+{"base": "<|endoftext|>The consultant across from the pilots", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants across from the pilots", "source_label": " are"}
+{"base": "<|endoftext|>The executive behind the senators", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The executives behind the senators", "source_label": " were"}
+{"base": "<|endoftext|>The senators near the officer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The senator near the officer", "source_label": " was"}
+{"base": "<|endoftext|>The executives behind the senators", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The executive behind the senators", "source_label": " was"}
+{"base": "<|endoftext|>The senator near the officer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The senators near the officer", "source_label": " were"}
+{"base": "<|endoftext|>The farmer across from the architect", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The farmers across from the architect", "source_label": " were"}
+{"base": "<|endoftext|>The officers behind the actors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer behind the actors", "source_label": " is"}
+{"base": "<|endoftext|>The farmers across from the architect", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The farmer across from the architect", "source_label": " was"}
+{"base": "<|endoftext|>The officer behind the actors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers behind the actors", "source_label": " are"}
+{"base": "<|endoftext|>The authors in front of the pilots", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author in front of the pilots", "source_label": " was"}
+{"base": "<|endoftext|>The authors in front of the teachers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The author in front of the teachers", "source_label": " has"}
+{"base": "<|endoftext|>The author in front of the pilots", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors in front of the pilots", "source_label": " were"}
+{"base": "<|endoftext|>The author in front of the teachers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The authors in front of the teachers", "source_label": " have"}
+{"base": "<|endoftext|>The officer next to the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The officers next to the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The author in front of the guard", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The authors in front of the guard", "source_label": " are"}
+{"base": "<|endoftext|>The officers next to the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The officer next to the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The authors in front of the guard", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The author in front of the guard", "source_label": " is"}
+{"base": "<|endoftext|>The architect next to the minister", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects next to the minister", "source_label": " were"}
+{"base": "<|endoftext|>The guard next to the guards", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The guards next to the guards", "source_label": " were"}
+{"base": "<|endoftext|>The architects next to the minister", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect next to the minister", "source_label": " was"}
+{"base": "<|endoftext|>The guards next to the guards", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard next to the guards", "source_label": " was"}
+{"base": "<|endoftext|>The managers to the side of the minister", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The manager to the side of the minister", "source_label": " is"}
+{"base": "<|endoftext|>The doctor in front of the actors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors in front of the actors", "source_label": " have"}
+{"base": "<|endoftext|>The manager to the side of the minister", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The managers to the side of the minister", "source_label": " are"}
+{"base": "<|endoftext|>The doctors in front of the actors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor in front of the actors", "source_label": " has"}
+{"base": "<|endoftext|>The author across from the architect", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The authors across from the architect", "source_label": " have"}
+{"base": "<|endoftext|>The customer to the side of the minister", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The customers to the side of the minister", "source_label": " have"}
+{"base": "<|endoftext|>The authors across from the architect", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The author across from the architect", "source_label": " has"}
+{"base": "<|endoftext|>The customers to the side of the minister", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The customer to the side of the minister", "source_label": " has"}
+{"base": "<|endoftext|>The consultants next to the consultant", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The consultant next to the consultant", "source_label": " has"}
+{"base": "<|endoftext|>The guards next to the manager", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The guard next to the manager", "source_label": " is"}
+{"base": "<|endoftext|>The consultant next to the consultant", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The consultants next to the consultant", "source_label": " have"}
+{"base": "<|endoftext|>The guard next to the manager", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The guards next to the manager", "source_label": " are"}
+{"base": "<|endoftext|>The officer to the side of the officer", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers to the side of the officer", "source_label": " are"}
+{"base": "<|endoftext|>The actors across from the authors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor across from the authors", "source_label": " has"}
+{"base": "<|endoftext|>The officers to the side of the officer", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer to the side of the officer", "source_label": " is"}
+{"base": "<|endoftext|>The actor across from the authors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors across from the authors", "source_label": " have"}
+{"base": "<|endoftext|>The author near the guards", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The authors near the guards", "source_label": " are"}
+{"base": "<|endoftext|>The teacher across from the minister", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The teachers across from the minister", "source_label": " have"}
+{"base": "<|endoftext|>The authors near the guards", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The author near the guards", "source_label": " is"}
+{"base": "<|endoftext|>The teachers across from the minister", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The teacher across from the minister", "source_label": " has"}
+{"base": "<|endoftext|>The architect to the side of the author", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects to the side of the author", "source_label": " are"}
+{"base": "<|endoftext|>The guards to the side of the consultant", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The guard to the side of the consultant", "source_label": " has"}
+{"base": "<|endoftext|>The architects to the side of the author", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect to the side of the author", "source_label": " is"}
+{"base": "<|endoftext|>The guard to the side of the consultant", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The guards to the side of the consultant", "source_label": " have"}
+{"base": "<|endoftext|>The minister across from the guard", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The ministers across from the guard", "source_label": " are"}
+{"base": "<|endoftext|>The officer next to the consultant", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers next to the consultant", "source_label": " are"}
+{"base": "<|endoftext|>The ministers across from the guard", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The minister across from the guard", "source_label": " is"}
+{"base": "<|endoftext|>The officers next to the consultant", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer next to the consultant", "source_label": " is"}
+{"base": "<|endoftext|>The pilots near the architect", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The pilot near the architect", "source_label": " has"}
+{"base": "<|endoftext|>The senators near the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The senator near the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The pilot near the architect", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The pilots near the architect", "source_label": " have"}
+{"base": "<|endoftext|>The senator near the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The senators near the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The minister behind the architect", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The ministers behind the architect", "source_label": " were"}
+{"base": "<|endoftext|>The doctor next to the actor", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The doctors next to the actor", "source_label": " are"}
+{"base": "<|endoftext|>The ministers behind the architect", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The minister behind the architect", "source_label": " was"}
+{"base": "<|endoftext|>The doctors next to the actor", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The doctor next to the actor", "source_label": " is"}
+{"base": "<|endoftext|>The senators in front of the executive", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The senator in front of the executive", "source_label": " was"}
+{"base": "<|endoftext|>The consultants to the side of the teachers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The consultant to the side of the teachers", "source_label": " has"}
+{"base": "<|endoftext|>The senator in front of the executive", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The senators in front of the executive", "source_label": " were"}
+{"base": "<|endoftext|>The consultant to the side of the teachers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The consultants to the side of the teachers", "source_label": " have"}
+{"base": "<|endoftext|>The authors to the side of the pilot", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The author to the side of the pilot", "source_label": " has"}
+{"base": "<|endoftext|>The authors across from the pilots", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author across from the pilots", "source_label": " was"}
+{"base": "<|endoftext|>The author to the side of the pilot", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The authors to the side of the pilot", "source_label": " have"}
+{"base": "<|endoftext|>The author across from the pilots", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors across from the pilots", "source_label": " were"}
+{"base": "<|endoftext|>The executives across from the executive", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The executive across from the executive", "source_label": " was"}
+{"base": "<|endoftext|>The managers to the side of the pilots", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The manager to the side of the pilots", "source_label": " is"}
+{"base": "<|endoftext|>The executive across from the executive", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The executives across from the executive", "source_label": " were"}
+{"base": "<|endoftext|>The manager to the side of the pilots", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The managers to the side of the pilots", "source_label": " are"}
+{"base": "<|endoftext|>The teachers across from the authors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The teacher across from the authors", "source_label": " has"}
+{"base": "<|endoftext|>The managers next to the consultants", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The manager next to the consultants", "source_label": " has"}
+{"base": "<|endoftext|>The teacher across from the authors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The teachers across from the authors", "source_label": " have"}
+{"base": "<|endoftext|>The manager next to the consultants", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The managers next to the consultants", "source_label": " have"}
+{"base": "<|endoftext|>The executive across from the guard", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The executives across from the guard", "source_label": " were"}
+{"base": "<|endoftext|>The customer next to the executives", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers next to the executives", "source_label": " were"}
+{"base": "<|endoftext|>The executives across from the guard", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The executive across from the guard", "source_label": " was"}
+{"base": "<|endoftext|>The customers next to the executives", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer next to the executives", "source_label": " was"}
+{"base": "<|endoftext|>The athlete behind the athlete", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The athletes behind the athlete", "source_label": " were"}
+{"base": "<|endoftext|>The senators behind the authors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator behind the authors", "source_label": " is"}
+{"base": "<|endoftext|>The athletes behind the athlete", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The athlete behind the athlete", "source_label": " was"}
+{"base": "<|endoftext|>The senator behind the authors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators behind the authors", "source_label": " are"}
+{"base": "<|endoftext|>The farmer next to the customers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers next to the customers", "source_label": " have"}
+{"base": "<|endoftext|>The architect next to the architect", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects next to the architect", "source_label": " are"}
+{"base": "<|endoftext|>The farmers next to the customers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer next to the customers", "source_label": " has"}
+{"base": "<|endoftext|>The architects next to the architect", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect next to the architect", "source_label": " is"}
+{"base": "<|endoftext|>The senator near the ministers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators near the ministers", "source_label": " are"}
+{"base": "<|endoftext|>The officer next to the officers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The officers next to the officers", "source_label": " were"}
+{"base": "<|endoftext|>The senators near the ministers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator near the ministers", "source_label": " is"}
+{"base": "<|endoftext|>The officers next to the officers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The officer next to the officers", "source_label": " was"}
+{"base": "<|endoftext|>The architects next to the guards", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect next to the guards", "source_label": " is"}
+{"base": "<|endoftext|>The consultants next to the officer", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The consultant next to the officer", "source_label": " has"}
+{"base": "<|endoftext|>The architect next to the guards", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects next to the guards", "source_label": " are"}
+{"base": "<|endoftext|>The consultant next to the officer", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The consultants next to the officer", "source_label": " have"}
+{"base": "<|endoftext|>The customer to the side of the athlete", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The customers to the side of the athlete", "source_label": " are"}
+{"base": "<|endoftext|>The officer behind the minister", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers behind the minister", "source_label": " are"}
+{"base": "<|endoftext|>The customers to the side of the athlete", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The customer to the side of the athlete", "source_label": " is"}
+{"base": "<|endoftext|>The officers behind the minister", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer behind the minister", "source_label": " is"}
+{"base": "<|endoftext|>The managers next to the consultants", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The manager next to the consultants", "source_label": " has"}
+{"base": "<|endoftext|>The architect in front of the managers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects in front of the managers", "source_label": " were"}
+{"base": "<|endoftext|>The manager next to the consultants", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The managers next to the consultants", "source_label": " have"}
+{"base": "<|endoftext|>The architects in front of the managers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect in front of the managers", "source_label": " was"}
+{"base": "<|endoftext|>The architects near the doctors", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect near the doctors", "source_label": " was"}
+{"base": "<|endoftext|>The customer behind the teachers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The customers behind the teachers", "source_label": " have"}
+{"base": "<|endoftext|>The architect near the doctors", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects near the doctors", "source_label": " were"}
+{"base": "<|endoftext|>The customers behind the teachers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The customer behind the teachers", "source_label": " has"}
+{"base": "<|endoftext|>The guards next to the doctor", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The guard next to the doctor", "source_label": " is"}
+{"base": "<|endoftext|>The actors near the author", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor near the author", "source_label": " was"}
+{"base": "<|endoftext|>The guard next to the doctor", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The guards next to the doctor", "source_label": " are"}
+{"base": "<|endoftext|>The actor near the author", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors near the author", "source_label": " were"}
+{"base": "<|endoftext|>The actors to the side of the athletes", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor to the side of the athletes", "source_label": " was"}
+{"base": "<|endoftext|>The architects in front of the author", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect in front of the author", "source_label": " was"}
+{"base": "<|endoftext|>The actor to the side of the athletes", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors to the side of the athletes", "source_label": " were"}
+{"base": "<|endoftext|>The architect in front of the author", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects in front of the author", "source_label": " were"}
+{"base": "<|endoftext|>The author across from the minister", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors across from the minister", "source_label": " were"}
+{"base": "<|endoftext|>The authors near the authors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The author near the authors", "source_label": " is"}
+{"base": "<|endoftext|>The authors across from the minister", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author across from the minister", "source_label": " was"}
+{"base": "<|endoftext|>The author near the authors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The authors near the authors", "source_label": " are"}
+{"base": "<|endoftext|>The executive next to the executive", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The executives next to the executive", "source_label": " are"}
+{"base": "<|endoftext|>The author across from the farmer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors across from the farmer", "source_label": " were"}
+{"base": "<|endoftext|>The executives next to the executive", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The executive next to the executive", "source_label": " is"}
+{"base": "<|endoftext|>The authors across from the farmer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author across from the farmer", "source_label": " was"}
+{"base": "<|endoftext|>The customers in front of the customers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer in front of the customers", "source_label": " was"}
+{"base": "<|endoftext|>The ministers near the doctors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The minister near the doctors", "source_label": " has"}
+{"base": "<|endoftext|>The customer in front of the customers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers in front of the customers", "source_label": " were"}
+{"base": "<|endoftext|>The minister near the doctors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The ministers near the doctors", "source_label": " have"}
+{"base": "<|endoftext|>The farmers to the side of the executives", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The farmer to the side of the executives", "source_label": " is"}
+{"base": "<|endoftext|>The architects to the side of the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect to the side of the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The farmer to the side of the executives", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The farmers to the side of the executives", "source_label": " are"}
+{"base": "<|endoftext|>The architect to the side of the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects to the side of the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The managers in front of the architect", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The manager in front of the architect", "source_label": " has"}
+{"base": "<|endoftext|>The architects behind the architects", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect behind the architects", "source_label": " was"}
+{"base": "<|endoftext|>The manager in front of the architect", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The managers in front of the architect", "source_label": " have"}
+{"base": "<|endoftext|>The architect behind the architects", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects behind the architects", "source_label": " were"}
+{"base": "<|endoftext|>The senator next to the architect", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The senators next to the architect", "source_label": " were"}
+{"base": "<|endoftext|>The authors behind the executive", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author behind the executive", "source_label": " was"}
+{"base": "<|endoftext|>The senators next to the architect", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The senator next to the architect", "source_label": " was"}
+{"base": "<|endoftext|>The author behind the executive", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors behind the executive", "source_label": " were"}
+{"base": "<|endoftext|>The consultant behind the farmers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants behind the farmers", "source_label": " are"}
+{"base": "<|endoftext|>The senator to the side of the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The senators to the side of the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The consultants behind the farmers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The consultant behind the farmers", "source_label": " is"}
+{"base": "<|endoftext|>The senators to the side of the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The senator to the side of the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The doctor in front of the farmers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors in front of the farmers", "source_label": " have"}
+{"base": "<|endoftext|>The author in front of the farmers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors in front of the farmers", "source_label": " were"}
+{"base": "<|endoftext|>The doctors in front of the farmers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor in front of the farmers", "source_label": " has"}
+{"base": "<|endoftext|>The authors in front of the farmers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author in front of the farmers", "source_label": " was"}
+{"base": "<|endoftext|>The doctors to the side of the actors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The doctor to the side of the actors", "source_label": " is"}
+{"base": "<|endoftext|>The architect in front of the author", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects in front of the author", "source_label": " are"}
+{"base": "<|endoftext|>The doctor to the side of the actors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The doctors to the side of the actors", "source_label": " are"}
+{"base": "<|endoftext|>The architects in front of the author", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect in front of the author", "source_label": " is"}
+{"base": "<|endoftext|>The senators in front of the customers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The senator in front of the customers", "source_label": " has"}
+{"base": "<|endoftext|>The actor next to the authors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors next to the authors", "source_label": " have"}
+{"base": "<|endoftext|>The senator in front of the customers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The senators in front of the customers", "source_label": " have"}
+{"base": "<|endoftext|>The actors next to the authors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor next to the authors", "source_label": " has"}
+{"base": "<|endoftext|>The authors near the minister", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author near the minister", "source_label": " was"}
+{"base": "<|endoftext|>The actor behind the actors", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors behind the actors", "source_label": " were"}
+{"base": "<|endoftext|>The author near the minister", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors near the minister", "source_label": " were"}
+{"base": "<|endoftext|>The actors behind the actors", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor behind the actors", "source_label": " was"}
+{"base": "<|endoftext|>The teacher behind the ministers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The teachers behind the ministers", "source_label": " are"}
+{"base": "<|endoftext|>The manager next to the senator", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The managers next to the senator", "source_label": " have"}
+{"base": "<|endoftext|>The teachers behind the ministers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The teacher behind the ministers", "source_label": " is"}
+{"base": "<|endoftext|>The managers next to the senator", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The manager next to the senator", "source_label": " has"}
+{"base": "<|endoftext|>The officer in front of the author", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers in front of the author", "source_label": " are"}
+{"base": "<|endoftext|>The actors behind the authors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor behind the authors", "source_label": " has"}
+{"base": "<|endoftext|>The officers in front of the author", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer in front of the author", "source_label": " is"}
+{"base": "<|endoftext|>The actor behind the authors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors behind the authors", "source_label": " have"}
+{"base": "<|endoftext|>The doctors next to the officers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor next to the officers", "source_label": " has"}
+{"base": "<|endoftext|>The doctor near the actors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors near the actors", "source_label": " have"}
+{"base": "<|endoftext|>The doctor next to the officers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors next to the officers", "source_label": " have"}
+{"base": "<|endoftext|>The doctors near the actors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor near the actors", "source_label": " has"}
+{"base": "<|endoftext|>The ministers behind the architects", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The minister behind the architects", "source_label": " is"}
+{"base": "<|endoftext|>The athletes to the side of the customers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The athlete to the side of the customers", "source_label": " has"}
+{"base": "<|endoftext|>The minister behind the architects", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The ministers behind the architects", "source_label": " are"}
+{"base": "<|endoftext|>The athlete to the side of the customers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The athletes to the side of the customers", "source_label": " have"}
+{"base": "<|endoftext|>The actors in front of the officers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor in front of the officers", "source_label": " was"}
+{"base": "<|endoftext|>The guard behind the ministers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The guards behind the ministers", "source_label": " were"}
+{"base": "<|endoftext|>The actor in front of the officers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors in front of the officers", "source_label": " were"}
+{"base": "<|endoftext|>The guards behind the ministers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard behind the ministers", "source_label": " was"}
+{"base": "<|endoftext|>The architect behind the executives", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects behind the executives", "source_label": " are"}
+{"base": "<|endoftext|>The teachers next to the architects", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The teacher next to the architects", "source_label": " is"}
+{"base": "<|endoftext|>The architects behind the executives", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect behind the executives", "source_label": " is"}
+{"base": "<|endoftext|>The teacher next to the architects", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The teachers next to the architects", "source_label": " are"}
+{"base": "<|endoftext|>The guard across from the customers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The guards across from the customers", "source_label": " are"}
+{"base": "<|endoftext|>The author behind the teacher", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors behind the teacher", "source_label": " were"}
+{"base": "<|endoftext|>The guards across from the customers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The guard across from the customers", "source_label": " is"}
+{"base": "<|endoftext|>The authors behind the teacher", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author behind the teacher", "source_label": " was"}
+{"base": "<|endoftext|>The actors across from the teacher", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor across from the teacher", "source_label": " was"}
+{"base": "<|endoftext|>The minister to the side of the doctors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The ministers to the side of the doctors", "source_label": " are"}
+{"base": "<|endoftext|>The actor across from the teacher", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors across from the teacher", "source_label": " were"}
+{"base": "<|endoftext|>The ministers to the side of the doctors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The minister to the side of the doctors", "source_label": " is"}
+{"base": "<|endoftext|>The actors across from the actors", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor across from the actors", "source_label": " was"}
+{"base": "<|endoftext|>The senators across from the consultants", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator across from the consultants", "source_label": " is"}
+{"base": "<|endoftext|>The actor across from the actors", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors across from the actors", "source_label": " were"}
+{"base": "<|endoftext|>The senator across from the consultants", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators across from the consultants", "source_label": " are"}
+{"base": "<|endoftext|>The customers behind the actors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The customer behind the actors", "source_label": " has"}
+{"base": "<|endoftext|>The architects in front of the consultant", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The architect in front of the consultant", "source_label": " has"}
+{"base": "<|endoftext|>The customer behind the actors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The customers behind the actors", "source_label": " have"}
+{"base": "<|endoftext|>The architect in front of the consultant", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The architects in front of the consultant", "source_label": " have"}
+{"base": "<|endoftext|>The actors in front of the ministers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The actor in front of the ministers", "source_label": " is"}
+{"base": "<|endoftext|>The officer in front of the actors", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The officers in front of the actors", "source_label": " were"}
+{"base": "<|endoftext|>The actor in front of the ministers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The actors in front of the ministers", "source_label": " are"}
+{"base": "<|endoftext|>The officers in front of the actors", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The officer in front of the actors", "source_label": " was"}
+{"base": "<|endoftext|>The customers behind the consultants", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer behind the consultants", "source_label": " was"}
+{"base": "<|endoftext|>The farmers near the farmers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The farmer near the farmers", "source_label": " is"}
+{"base": "<|endoftext|>The customer behind the consultants", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers behind the consultants", "source_label": " were"}
+{"base": "<|endoftext|>The farmer near the farmers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The farmers near the farmers", "source_label": " are"}
+{"base": "<|endoftext|>The author behind the manager", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors behind the manager", "source_label": " were"}
+{"base": "<|endoftext|>The doctors to the side of the author", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The doctor to the side of the author", "source_label": " was"}
+{"base": "<|endoftext|>The authors behind the manager", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author behind the manager", "source_label": " was"}
+{"base": "<|endoftext|>The doctor to the side of the author", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The doctors to the side of the author", "source_label": " were"}
+{"base": "<|endoftext|>The senators across from the customers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The senator across from the customers", "source_label": " has"}
+{"base": "<|endoftext|>The senator next to the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators next to the teacher", "source_label": " are"}
+{"base": "<|endoftext|>The senator across from the customers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The senators across from the customers", "source_label": " have"}
+{"base": "<|endoftext|>The senators next to the teacher", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator next to the teacher", "source_label": " is"}
+{"base": "<|endoftext|>The actors to the side of the customer", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The actor to the side of the customer", "source_label": " is"}
+{"base": "<|endoftext|>The executives next to the manager", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The executive next to the manager", "source_label": " is"}
+{"base": "<|endoftext|>The actor to the side of the customer", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The actors to the side of the customer", "source_label": " are"}
+{"base": "<|endoftext|>The executive next to the manager", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The executives next to the manager", "source_label": " are"}
+{"base": "<|endoftext|>The executives to the side of the guard", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The executive to the side of the guard", "source_label": " has"}
+{"base": "<|endoftext|>The teacher near the managers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The teachers near the managers", "source_label": " are"}
+{"base": "<|endoftext|>The executive to the side of the guard", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The executives to the side of the guard", "source_label": " have"}
+{"base": "<|endoftext|>The teachers near the managers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The teacher near the managers", "source_label": " is"}
+{"base": "<|endoftext|>The officer behind the manager", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The officers behind the manager", "source_label": " have"}
+{"base": "<|endoftext|>The actor in front of the senators", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors in front of the senators", "source_label": " have"}
+{"base": "<|endoftext|>The officers behind the manager", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The officer behind the manager", "source_label": " has"}
+{"base": "<|endoftext|>The actors in front of the senators", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor in front of the senators", "source_label": " has"}
+{"base": "<|endoftext|>The customer behind the customers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The customers behind the customers", "source_label": " are"}
+{"base": "<|endoftext|>The consultant near the guards", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The consultants near the guards", "source_label": " were"}
+{"base": "<|endoftext|>The customers behind the customers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The customer behind the customers", "source_label": " is"}
+{"base": "<|endoftext|>The consultants near the guards", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The consultant near the guards", "source_label": " was"}
+{"base": "<|endoftext|>The actors in front of the teacher", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The actor in front of the teacher", "source_label": " is"}
+{"base": "<|endoftext|>The executives in front of the guards", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The executive in front of the guards", "source_label": " has"}
+{"base": "<|endoftext|>The actor in front of the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The actors in front of the teacher", "source_label": " are"}
+{"base": "<|endoftext|>The executive in front of the guards", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The executives in front of the guards", "source_label": " have"}
+{"base": "<|endoftext|>The senators next to the doctor", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The senator next to the doctor", "source_label": " has"}
+{"base": "<|endoftext|>The farmers behind the ministers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer behind the ministers", "source_label": " has"}
+{"base": "<|endoftext|>The senator next to the doctor", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The senators next to the doctor", "source_label": " have"}
+{"base": "<|endoftext|>The farmer behind the ministers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers behind the ministers", "source_label": " have"}
+{"base": "<|endoftext|>The officers in front of the farmer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The officer in front of the farmer", "source_label": " was"}
+{"base": "<|endoftext|>The actor to the side of the customers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors to the side of the customers", "source_label": " have"}
+{"base": "<|endoftext|>The officer in front of the farmer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The officers in front of the farmer", "source_label": " were"}
+{"base": "<|endoftext|>The actors to the side of the customers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor to the side of the customers", "source_label": " has"}
+{"base": "<|endoftext|>The author next to the customers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors next to the customers", "source_label": " were"}
+{"base": "<|endoftext|>The actors next to the architect", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor next to the architect", "source_label": " was"}
+{"base": "<|endoftext|>The authors next to the customers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author next to the customers", "source_label": " was"}
+{"base": "<|endoftext|>The actor next to the architect", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors next to the architect", "source_label": " were"}
+{"base": "<|endoftext|>The executives to the side of the executive", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The executive to the side of the executive", "source_label": " is"}
+{"base": "<|endoftext|>The managers behind the doctor", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The manager behind the doctor", "source_label": " is"}
+{"base": "<|endoftext|>The executive to the side of the executive", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The executives to the side of the executive", "source_label": " are"}
+{"base": "<|endoftext|>The manager behind the doctor", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The managers behind the doctor", "source_label": " are"}
+{"base": "<|endoftext|>The officers across from the minister", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer across from the minister", "source_label": " is"}
+{"base": "<|endoftext|>The officer across from the guard", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The officers across from the guard", "source_label": " were"}
+{"base": "<|endoftext|>The officer across from the minister", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers across from the minister", "source_label": " are"}
+{"base": "<|endoftext|>The officers across from the guard", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The officer across from the guard", "source_label": " was"}
+{"base": "<|endoftext|>The athlete in front of the doctor", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The athletes in front of the doctor", "source_label": " are"}
+{"base": "<|endoftext|>The customers in front of the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer in front of the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The athletes in front of the doctor", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The athlete in front of the doctor", "source_label": " is"}
+{"base": "<|endoftext|>The customer in front of the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers in front of the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The author behind the officer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors behind the officer", "source_label": " were"}
+{"base": "<|endoftext|>The actors across from the actor", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor across from the actor", "source_label": " has"}
+{"base": "<|endoftext|>The authors behind the officer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author behind the officer", "source_label": " was"}
+{"base": "<|endoftext|>The actor across from the actor", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors across from the actor", "source_label": " have"}
+{"base": "<|endoftext|>The doctors next to the teachers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The doctor next to the teachers", "source_label": " was"}
+{"base": "<|endoftext|>The actor in front of the athlete", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors in front of the athlete", "source_label": " were"}
+{"base": "<|endoftext|>The doctor next to the teachers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The doctors next to the teachers", "source_label": " were"}
+{"base": "<|endoftext|>The actors in front of the athlete", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor in front of the athlete", "source_label": " was"}
+{"base": "<|endoftext|>The customer next to the farmers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers next to the farmers", "source_label": " were"}
+{"base": "<|endoftext|>The authors behind the minister", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The author behind the minister", "source_label": " was"}
+{"base": "<|endoftext|>The customers next to the farmers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer next to the farmers", "source_label": " was"}
+{"base": "<|endoftext|>The author behind the minister", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The authors behind the minister", "source_label": " were"}
+{"base": "<|endoftext|>The customer next to the teachers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers next to the teachers", "source_label": " were"}
+{"base": "<|endoftext|>The minister to the side of the guards", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The ministers to the side of the guards", "source_label": " were"}
+{"base": "<|endoftext|>The customers next to the teachers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer next to the teachers", "source_label": " was"}
+{"base": "<|endoftext|>The ministers to the side of the guards", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The minister to the side of the guards", "source_label": " was"}
+{"base": "<|endoftext|>The farmer in front of the athlete", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The farmers in front of the athlete", "source_label": " are"}
+{"base": "<|endoftext|>The officer across from the author", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The officers across from the author", "source_label": " have"}
+{"base": "<|endoftext|>The farmers in front of the athlete", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The farmer in front of the athlete", "source_label": " is"}
+{"base": "<|endoftext|>The officers across from the author", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The officer across from the author", "source_label": " has"}
+{"base": "<|endoftext|>The ministers to the side of the pilots", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The minister to the side of the pilots", "source_label": " has"}
+{"base": "<|endoftext|>The managers near the actors", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The manager near the actors", "source_label": " is"}
+{"base": "<|endoftext|>The minister to the side of the pilots", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The ministers to the side of the pilots", "source_label": " have"}
+{"base": "<|endoftext|>The manager near the actors", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The managers near the actors", "source_label": " are"}
+{"base": "<|endoftext|>The pilot in front of the doctors", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The pilots in front of the doctors", "source_label": " have"}
+{"base": "<|endoftext|>The consultants in front of the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The consultant in front of the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The pilots in front of the doctors", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The pilot in front of the doctors", "source_label": " has"}
+{"base": "<|endoftext|>The consultant in front of the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The consultants in front of the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The athletes near the teachers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The athlete near the teachers", "source_label": " is"}
+{"base": "<|endoftext|>The minister next to the athletes", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The ministers next to the athletes", "source_label": " are"}
+{"base": "<|endoftext|>The athlete near the teachers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The athletes near the teachers", "source_label": " are"}
+{"base": "<|endoftext|>The ministers next to the athletes", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The minister next to the athletes", "source_label": " is"}
+{"base": "<|endoftext|>The doctors near the customer", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor near the customer", "source_label": " has"}
+{"base": "<|endoftext|>The actor behind the pilots", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors behind the pilots", "source_label": " were"}
+{"base": "<|endoftext|>The doctor near the customer", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors near the customer", "source_label": " have"}
+{"base": "<|endoftext|>The actors behind the pilots", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor behind the pilots", "source_label": " was"}
+{"base": "<|endoftext|>The authors to the side of the pilots", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The author to the side of the pilots", "source_label": " is"}
+{"base": "<|endoftext|>The senators next to the author", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator next to the author", "source_label": " is"}
+{"base": "<|endoftext|>The author to the side of the pilots", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The authors to the side of the pilots", "source_label": " are"}
+{"base": "<|endoftext|>The senator next to the author", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators next to the author", "source_label": " are"}
+{"base": "<|endoftext|>The officers to the side of the farmers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The officer to the side of the farmers", "source_label": " was"}
+{"base": "<|endoftext|>The minister near the consultant", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The ministers near the consultant", "source_label": " were"}
+{"base": "<|endoftext|>The officer to the side of the farmers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The officers to the side of the farmers", "source_label": " were"}
+{"base": "<|endoftext|>The ministers near the consultant", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The minister near the consultant", "source_label": " was"}
+{"base": "<|endoftext|>The farmer next to the farmer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The farmers next to the farmer", "source_label": " were"}
+{"base": "<|endoftext|>The customers across from the pilots", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The customer across from the pilots", "source_label": " has"}
+{"base": "<|endoftext|>The farmers next to the farmer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The farmer next to the farmer", "source_label": " was"}
+{"base": "<|endoftext|>The customer across from the pilots", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The customers across from the pilots", "source_label": " have"}
+{"base": "<|endoftext|>The executives in front of the officers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The executive in front of the officers", "source_label": " is"}
+{"base": "<|endoftext|>The ministers in front of the architect", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The minister in front of the architect", "source_label": " was"}
+{"base": "<|endoftext|>The executive in front of the officers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The executives in front of the officers", "source_label": " are"}
+{"base": "<|endoftext|>The minister in front of the architect", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The ministers in front of the architect", "source_label": " were"}
+{"base": "<|endoftext|>The executives to the side of the athletes", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The executive to the side of the athletes", "source_label": " is"}
+{"base": "<|endoftext|>The pilot behind the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The pilots behind the teacher", "source_label": " are"}
+{"base": "<|endoftext|>The executive to the side of the athletes", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The executives to the side of the athletes", "source_label": " are"}
+{"base": "<|endoftext|>The pilots behind the teacher", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The pilot behind the teacher", "source_label": " is"}
+{"base": "<|endoftext|>The manager near the teacher", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The managers near the teacher", "source_label": " have"}
+{"base": "<|endoftext|>The actor across from the executives", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors across from the executives", "source_label": " have"}
+{"base": "<|endoftext|>The managers near the teacher", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The manager near the teacher", "source_label": " has"}
+{"base": "<|endoftext|>The actors across from the executives", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor across from the executives", "source_label": " has"}
+{"base": "<|endoftext|>The actors in front of the actors", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor in front of the actors", "source_label": " was"}
+{"base": "<|endoftext|>The pilots across from the officer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The pilot across from the officer", "source_label": " was"}
+{"base": "<|endoftext|>The actor in front of the actors", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors in front of the actors", "source_label": " were"}
+{"base": "<|endoftext|>The pilot across from the officer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The pilots across from the officer", "source_label": " were"}
+{"base": "<|endoftext|>The doctors to the side of the farmers", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The doctor to the side of the farmers", "source_label": " is"}
+{"base": "<|endoftext|>The actor across from the farmer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The actors across from the farmer", "source_label": " were"}
+{"base": "<|endoftext|>The doctor to the side of the farmers", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The doctors to the side of the farmers", "source_label": " are"}
+{"base": "<|endoftext|>The actors across from the farmer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor across from the farmer", "source_label": " was"}
+{"base": "<|endoftext|>The architect across from the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The architects across from the teacher", "source_label": " are"}
+{"base": "<|endoftext|>The farmer across from the pilot", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The farmers across from the pilot", "source_label": " are"}
+{"base": "<|endoftext|>The architects across from the teacher", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The architect across from the teacher", "source_label": " is"}
+{"base": "<|endoftext|>The farmers across from the pilot", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The farmer across from the pilot", "source_label": " is"}
+{"base": "<|endoftext|>The pilots to the side of the farmers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The pilot to the side of the farmers", "source_label": " was"}
+{"base": "<|endoftext|>The customers in front of the athletes", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The customer in front of the athletes", "source_label": " is"}
+{"base": "<|endoftext|>The pilot to the side of the farmers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The pilots to the side of the farmers", "source_label": " were"}
+{"base": "<|endoftext|>The customer in front of the athletes", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The customers in front of the athletes", "source_label": " are"}
+{"base": "<|endoftext|>The customers in front of the teacher", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer in front of the teacher", "source_label": " was"}
+{"base": "<|endoftext|>The farmers to the side of the consultants", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer to the side of the consultants", "source_label": " has"}
+{"base": "<|endoftext|>The customer in front of the teacher", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The customers in front of the teacher", "source_label": " were"}
+{"base": "<|endoftext|>The farmer to the side of the consultants", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers to the side of the consultants", "source_label": " have"}
+{"base": "<|endoftext|>The farmers behind the pilots", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer behind the pilots", "source_label": " has"}
+{"base": "<|endoftext|>The teacher near the minister", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The teachers near the minister", "source_label": " were"}
+{"base": "<|endoftext|>The farmer behind the pilots", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers behind the pilots", "source_label": " have"}
+{"base": "<|endoftext|>The teachers near the minister", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The teacher near the minister", "source_label": " was"}
+{"base": "<|endoftext|>The senators near the teacher", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator near the teacher", "source_label": " is"}
+{"base": "<|endoftext|>The officer across from the consultants", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers across from the consultants", "source_label": " are"}
+{"base": "<|endoftext|>The senator near the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators near the teacher", "source_label": " are"}
+{"base": "<|endoftext|>The officers across from the consultants", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer across from the consultants", "source_label": " is"}
+{"base": "<|endoftext|>The doctor next to the senators", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors next to the senators", "source_label": " have"}
+{"base": "<|endoftext|>The teacher behind the executives", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The teachers behind the executives", "source_label": " are"}
+{"base": "<|endoftext|>The doctors next to the senators", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor next to the senators", "source_label": " has"}
+{"base": "<|endoftext|>The teachers behind the executives", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The teacher behind the executives", "source_label": " is"}
+{"base": "<|endoftext|>The architect near the senators", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The architects near the senators", "source_label": " have"}
+{"base": "<|endoftext|>The managers across from the consultant", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The manager across from the consultant", "source_label": " was"}
+{"base": "<|endoftext|>The architects near the senators", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The architect near the senators", "source_label": " has"}
+{"base": "<|endoftext|>The manager across from the consultant", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The managers across from the consultant", "source_label": " were"}
+{"base": "<|endoftext|>The authors to the side of the athlete", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The author to the side of the athlete", "source_label": " is"}
+{"base": "<|endoftext|>The ministers in front of the actor", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The minister in front of the actor", "source_label": " was"}
+{"base": "<|endoftext|>The author to the side of the athlete", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The authors to the side of the athlete", "source_label": " are"}
+{"base": "<|endoftext|>The minister in front of the actor", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The ministers in front of the actor", "source_label": " were"}
