@@ -1,6 +1,8 @@
-# Sparsification of subject–verb agreement circuits
+# The Emergence and Sparsification of a Syntactic Circuit
 
-Code accompanying the paper. Install dependencies with:
+Paper by Qing Yao, Sasha Boguraev, Tiago Pimentel, and Kyle Mahowald, to appear at EMNLP 2026.
+
+Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
@@ -20,5 +22,4 @@ pip install -r requirements.txt
 
 Fixed datasets are in `data/`. Results are written to `results/`.
 
-The final circuit is hard-coded from the paper; circuit discovery and pruning
-are not reproduced.
+The final circuit is hard-coded from the paper.
