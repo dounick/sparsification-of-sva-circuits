@@ -71,9 +71,9 @@
 {"base": "<|endoftext|>The guards that injured the consultant", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard that injured the consultant", "source_label": " was"}
 {"base": "<|endoftext|>The athletes that hated the pilot", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The athlete that hated the pilot", "source_label": " is"}
 {"base": "<|endoftext|>The actor that hated the guard", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors that hated the guard", "source_label": " have"}
-{"base": "<|endoftext|>The doctor that injured the author", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The doctors that injured the author", "source_label": " were"}
+{"base": "<|endoftext|>The guard that disguised the architect", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The guards that disguised the architect", "source_label": " were"}
 {"base": "<|endoftext|>The actors that hated the guard", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor that hated the guard", "source_label": " has"}
-{"base": "<|endoftext|>The doctors that injured the author", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The doctor that injured the author", "source_label": " was"}
+{"base": "<|endoftext|>The guards that disguised the architect", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard that disguised the architect", "source_label": " was"}
 {"base": "<|endoftext|>The consultant that liked the athlete", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants that liked the athlete", "source_label": " are"}
 {"base": "<|endoftext|>The actors that liked the architect", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The actor that liked the architect", "source_label": " is"}
 {"base": "<|endoftext|>The consultants that liked the athlete", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The consultant that liked the athlete", "source_label": " is"}
@@ -86,9 +86,9 @@
 {"base": "<|endoftext|>The farmer that disguised the guard", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers that disguised the guard", "source_label": " have"}
 {"base": "<|endoftext|>The architect that hated the senator", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects that hated the senator", "source_label": " were"}
 {"base": "<|endoftext|>The farmers that disguised the guard", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer that disguised the guard", "source_label": " has"}
-{"base": "<|endoftext|>The doctor that injured the manager", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors that injured the manager", "source_label": " have"}
+{"base": "<|endoftext|>The farmer that injured the consultant", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers that injured the consultant", "source_label": " have"}
 {"base": "<|endoftext|>The guard that admired the customer", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The guards that admired the customer", "source_label": " were"}
-{"base": "<|endoftext|>The doctors that injured the manager", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor that injured the manager", "source_label": " has"}
+{"base": "<|endoftext|>The farmers that injured the consultant", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer that injured the consultant", "source_label": " has"}
 {"base": "<|endoftext|>The guards that admired the customer", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard that admired the customer", "source_label": " was"}
 {"base": "<|endoftext|>The actors that injured the guard", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor that injured the guard", "source_label": " has"}
 {"base": "<|endoftext|>The consultant that embarrassed the teacher", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants that embarrassed the teacher", "source_label": " are"}
@@ -182,9 +182,9 @@
 {"base": "<|endoftext|>The senators that embarrassed the author", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The senator that embarrassed the author", "source_label": " was"}
 {"base": "<|endoftext|>The doctors that hated the actor", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor that hated the actor", "source_label": " has"}
 {"base": "<|endoftext|>The senator that embarrassed the author", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The senators that embarrassed the author", "source_label": " were"}
-{"base": "<|endoftext|>The executive that admired the senator", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The executives that admired the senator", "source_label": " have"}
+{"base": "<|endoftext|>The athlete that injured the farmer", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The athletes that injured the farmer", "source_label": " have"}
 {"base": "<|endoftext|>The senator that hurt the doctor", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The senators that hurt the doctor", "source_label": " are"}
-{"base": "<|endoftext|>The executives that admired the senator", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The executive that admired the senator", "source_label": " has"}
+{"base": "<|endoftext|>The athletes that injured the farmer", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The athlete that injured the farmer", "source_label": " has"}
 {"base": "<|endoftext|>The senators that hurt the doctor", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The senator that hurt the doctor", "source_label": " is"}
 {"base": "<|endoftext|>The guards that admired the manager", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The guard that admired the manager", "source_label": " has"}
 {"base": "<|endoftext|>The customer that disguised the guard", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The customers that disguised the guard", "source_label": " have"}

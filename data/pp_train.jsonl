@@ -138,9 +138,9 @@
 {"base": "<|endoftext|>The officer behind the minister", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The officers behind the minister", "source_label": " are"}
 {"base": "<|endoftext|>The customers to the side of the athlete", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The customer to the side of the athlete", "source_label": " is"}
 {"base": "<|endoftext|>The officers behind the minister", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The officer behind the minister", "source_label": " is"}
-{"base": "<|endoftext|>The managers next to the consultants", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The manager next to the consultants", "source_label": " has"}
+{"base": "<|endoftext|>The ministers in front of the teachers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The minister in front of the teachers", "source_label": " has"}
 {"base": "<|endoftext|>The architect in front of the managers", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects in front of the managers", "source_label": " were"}
-{"base": "<|endoftext|>The manager next to the consultants", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The managers next to the consultants", "source_label": " have"}
+{"base": "<|endoftext|>The minister in front of the teachers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The ministers in front of the teachers", "source_label": " have"}
 {"base": "<|endoftext|>The architects in front of the managers", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect in front of the managers", "source_label": " was"}
 {"base": "<|endoftext|>The architects near the doctors", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect near the doctors", "source_label": " was"}
 {"base": "<|endoftext|>The customer behind the teachers", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The customers behind the teachers", "source_label": " have"}

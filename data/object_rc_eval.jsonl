@@ -71,9 +71,9 @@
 {"base": "<|endoftext|>The guards that the farmer embarrassed", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard that the farmer embarrassed", "source_label": " was"}
 {"base": "<|endoftext|>The athletes that the guard admired", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The athlete that the guard admired", "source_label": " is"}
 {"base": "<|endoftext|>The actor that the doctor hated", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The actors that the doctor hated", "source_label": " have"}
-{"base": "<|endoftext|>The doctor that the author injured", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The doctors that the author injured", "source_label": " were"}
+{"base": "<|endoftext|>The guard that the officer hurt", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The guards that the officer hurt", "source_label": " were"}
 {"base": "<|endoftext|>The actors that the doctor hated", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor that the doctor hated", "source_label": " has"}
-{"base": "<|endoftext|>The doctors that the author injured", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The doctor that the author injured", "source_label": " was"}
+{"base": "<|endoftext|>The guards that the officer hurt", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard that the officer hurt", "source_label": " was"}
 {"base": "<|endoftext|>The consultant that the executive disguised", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants that the executive disguised", "source_label": " are"}
 {"base": "<|endoftext|>The actors that the minister hurt", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The actor that the minister hurt", "source_label": " is"}
 {"base": "<|endoftext|>The consultants that the executive disguised", "base_label": " are", "base_number": "plural", "source": "<|endoftext|>The consultant that the executive disguised", "source_label": " is"}
@@ -86,9 +86,9 @@
 {"base": "<|endoftext|>The farmer that the officer hated", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers that the officer hated", "source_label": " have"}
 {"base": "<|endoftext|>The architect that the guard ignored", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects that the guard ignored", "source_label": " were"}
 {"base": "<|endoftext|>The farmers that the officer hated", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer that the officer hated", "source_label": " has"}
-{"base": "<|endoftext|>The doctor that the farmer ignored", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors that the farmer ignored", "source_label": " have"}
+{"base": "<|endoftext|>The farmer that the farmer embarrassed", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The farmers that the farmer embarrassed", "source_label": " have"}
 {"base": "<|endoftext|>The guard that the pilot admired", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The guards that the pilot admired", "source_label": " were"}
-{"base": "<|endoftext|>The doctors that the farmer ignored", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor that the farmer ignored", "source_label": " has"}
+{"base": "<|endoftext|>The farmers that the farmer embarrassed", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The farmer that the farmer embarrassed", "source_label": " has"}
 {"base": "<|endoftext|>The guards that the pilot admired", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The guard that the pilot admired", "source_label": " was"}
 {"base": "<|endoftext|>The actors that the farmer hated", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The actor that the farmer hated", "source_label": " has"}
 {"base": "<|endoftext|>The consultant that the consultant embarrassed", "base_label": " is", "base_number": "singular", "source": "<|endoftext|>The consultants that the consultant embarrassed", "source_label": " are"}

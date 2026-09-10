@@ -142,9 +142,9 @@
 {"base": "<|endoftext|>The senator behind the doctor", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The senators behind the doctor", "source_label": " have"}
 {"base": "<|endoftext|>The actors near the athlete", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The actor near the athlete", "source_label": " was"}
 {"base": "<|endoftext|>The senators behind the doctor", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The senator behind the doctor", "source_label": " has"}
-{"base": "<|endoftext|>The architects next to the pilot", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The architect next to the pilot", "source_label": " was"}
+{"base": "<|endoftext|>The teachers near the actor", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The teacher near the actor", "source_label": " was"}
 {"base": "<|endoftext|>The doctor next to the guard", "base_label": " has", "base_number": "singular", "source": "<|endoftext|>The doctors next to the guard", "source_label": " have"}
-{"base": "<|endoftext|>The architect next to the pilot", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The architects next to the pilot", "source_label": " were"}
+{"base": "<|endoftext|>The teacher near the actor", "base_label": " was", "base_number": "singular", "source": "<|endoftext|>The teachers near the actor", "source_label": " were"}
 {"base": "<|endoftext|>The doctors next to the guard", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The doctor next to the guard", "source_label": " has"}
 {"base": "<|endoftext|>The customers near the guards", "base_label": " were", "base_number": "plural", "source": "<|endoftext|>The customer near the guards", "source_label": " was"}
 {"base": "<|endoftext|>The customers to the side of the managers", "base_label": " have", "base_number": "plural", "source": "<|endoftext|>The customer to the side of the managers", "source_label": " has"}

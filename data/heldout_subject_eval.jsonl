@@ -148,13 +148,13 @@
 {"base": "<|endoftext|>The artist behind the teachers", "base_number": "singular", "source": "<|endoftext|>The artists behind the teachers"}
 {"base": "<|endoftext|>The dancer near the doctor", "base_number": "singular", "source": "<|endoftext|>The dancers near the doctor"}
 {"base": "<|endoftext|>The cooks across from the doctor", "base_number": "plural", "source": "<|endoftext|>The cook across from the doctor"}
-{"base": "<|endoftext|>The musicians near the ministers", "base_number": "plural", "source": "<|endoftext|>The musician near the ministers"}
+{"base": "<|endoftext|>The drivers in front of the consultant", "base_number": "plural", "source": "<|endoftext|>The driver in front of the consultant"}
 {"base": "<|endoftext|>The drivers next to the officers", "base_number": "plural", "source": "<|endoftext|>The driver next to the officers"}
 {"base": "<|endoftext|>The artists to the side of the consultants", "base_number": "plural", "source": "<|endoftext|>The artist to the side of the consultants"}
 {"base": "<|endoftext|>The musicians to the side of the athlete", "base_number": "plural", "source": "<|endoftext|>The musician to the side of the athlete"}
 {"base": "<|endoftext|>The worker across from the author", "base_number": "singular", "source": "<|endoftext|>The workers across from the author"}
 {"base": "<|endoftext|>The artist near the officer", "base_number": "singular", "source": "<|endoftext|>The artists near the officer"}
-{"base": "<|endoftext|>The singer in front of the doctor", "base_number": "singular", "source": "<|endoftext|>The singers in front of the doctor"}
+{"base": "<|endoftext|>The lawyer across from the farmers", "base_number": "singular", "source": "<|endoftext|>The lawyers across from the farmers"}
 {"base": "<|endoftext|>The scientists in front of the teacher", "base_number": "plural", "source": "<|endoftext|>The scientist in front of the teacher"}
 {"base": "<|endoftext|>The dancer behind the senator", "base_number": "singular", "source": "<|endoftext|>The dancers behind the senator"}
 {"base": "<|endoftext|>The scientist next to the guards", "base_number": "singular", "source": "<|endoftext|>The scientists next to the guards"}
@@ -165,7 +165,7 @@
 {"base": "<|endoftext|>The singer near the manager", "base_number": "singular", "source": "<|endoftext|>The singers near the manager"}
 {"base": "<|endoftext|>The driver behind the senator", "base_number": "singular", "source": "<|endoftext|>The drivers behind the senator"}
 {"base": "<|endoftext|>The cook in front of the managers", "base_number": "singular", "source": "<|endoftext|>The cooks in front of the managers"}
-{"base": "<|endoftext|>The singer to the side of the officer", "base_number": "singular", "source": "<|endoftext|>The singers to the side of the officer"}
+{"base": "<|endoftext|>The dancer to the side of the pilot", "base_number": "singular", "source": "<|endoftext|>The dancers to the side of the pilot"}
 {"base": "<|endoftext|>The artist in front of the customers", "base_number": "singular", "source": "<|endoftext|>The artists in front of the customers"}
 {"base": "<|endoftext|>The engineer next to the senators", "base_number": "singular", "source": "<|endoftext|>The engineers next to the senators"}
 {"base": "<|endoftext|>The dancers behind the teacher", "base_number": "plural", "source": "<|endoftext|>The dancer behind the teacher"}

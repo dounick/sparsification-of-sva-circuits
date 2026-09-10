@@ -89,7 +89,7 @@
 {"base": "<|endoftext|>The athletes next to the doctor", "base_number": "plural", "source": "<|endoftext|>The athlete next to the doctor"}
 {"base": "<|endoftext|>The customers next to the architect", "base_number": "plural", "source": "<|endoftext|>The customer next to the architect"}
 {"base": "<|endoftext|>The author next to the farmer", "base_number": "singular", "source": "<|endoftext|>The authors next to the farmer"}
-{"base": "<|endoftext|>The senators near the ministers", "base_number": "plural", "source": "<|endoftext|>The senator near the ministers"}
+{"base": "<|endoftext|>The consultants across from the architects", "base_number": "plural", "source": "<|endoftext|>The consultant across from the architects"}
 {"base": "<|endoftext|>The senator near the doctor", "base_number": "singular", "source": "<|endoftext|>The senators near the doctor"}
 {"base": "<|endoftext|>The executive to the side of the doctors", "base_number": "singular", "source": "<|endoftext|>The executives to the side of the doctors"}
 {"base": "<|endoftext|>The consultant to the side of the teachers", "base_number": "singular", "source": "<|endoftext|>The consultants to the side of the teachers"}
@@ -99,7 +99,7 @@
 {"base": "<|endoftext|>The authors next to the executive", "base_number": "plural", "source": "<|endoftext|>The author next to the executive"}
 {"base": "<|endoftext|>The ministers in front of the executive", "base_number": "plural", "source": "<|endoftext|>The minister in front of the executive"}
 {"base": "<|endoftext|>The farmer behind the athletes", "base_number": "singular", "source": "<|endoftext|>The farmers behind the athletes"}
-{"base": "<|endoftext|>The author behind the authors", "base_number": "singular", "source": "<|endoftext|>The authors behind the authors"}
+{"base": "<|endoftext|>The doctor next to the officers", "base_number": "singular", "source": "<|endoftext|>The doctors next to the officers"}
 {"base": "<|endoftext|>The minister to the side of the teachers", "base_number": "singular", "source": "<|endoftext|>The ministers to the side of the teachers"}
 {"base": "<|endoftext|>The officer near the customers", "base_number": "singular", "source": "<|endoftext|>The officers near the customers"}
 {"base": "<|endoftext|>The executive behind the pilot", "base_number": "singular", "source": "<|endoftext|>The executives behind the pilot"}
